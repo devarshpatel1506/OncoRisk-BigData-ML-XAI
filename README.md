@@ -1,6 +1,6 @@
 # OncoRisk — Big Data, ML & XAI for Breast-Cancer Risk Estimation
 
-**Tagline:** *EHR at scale → PySpark feature engineering → distributed model training → clinician-grade explainability*
+*EHR at scale → PySpark feature engineering → distributed model training → clinician-grade explainability*
 
 ---
 
